@@ -1,3 +1,10 @@
+/* Author SoMi Choi
+*  Research ME497
+*  Date 4/15/2015
+*  QuickSort
+*/
+
+
 import java.sql.Timestamp;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

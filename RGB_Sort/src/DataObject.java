@@ -1,3 +1,9 @@
+/* Author SoMi Choi
+*  Research ME497
+*  Date 4/15/2015
+*  QuickSort
+*/
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Comparator;

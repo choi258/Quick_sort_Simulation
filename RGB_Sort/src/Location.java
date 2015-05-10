@@ -1,3 +1,10 @@
+/* Author SoMi Choi
+*  Research ME497
+*  Date 4/15/2015
+*  QuickSort
+*/
+
+
 public class Location { 
     private String name;
     private double longitude;
